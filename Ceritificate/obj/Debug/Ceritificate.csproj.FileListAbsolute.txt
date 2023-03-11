@@ -1,0 +1,10 @@
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\bin\Debug\Ceritificate.exe.config
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\bin\Debug\Ceritificate.exe
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\bin\Debug\Ceritificate.pdb
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\obj\Debug\Ceritificate.csproj.AssemblyReference.cache
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\obj\Debug\Ceritificate.csproj.SuggestedBindingRedirects.cache
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\obj\Debug\Ceritificate.csproj.CoreCompileInputs.cache
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\obj\Debug\Ceritificate.csproj.CopyComplete
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\obj\Debug\Ceritificate.exe
+C:\Users\MatiUrRehman\source\repos\Ceritificate\Ceritificate\obj\Debug\Ceritificate.pdb
